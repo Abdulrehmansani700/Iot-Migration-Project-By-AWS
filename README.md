@@ -87,20 +87,6 @@ flowchart LR
 </tr>
 </table>
 
-<br/>
-
-## 📊 Live Dashboard Preview
-
-<div align="center">
-
-![Dashboard Pulse](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
-
-**Streamlit Dashboard** — device activity map · events-per-device bar chart · raw data table
-Served live on `EC2:8501`, pulling directly from `HACKATHON_IOT.RAW.IOT_EVENTS`
-
-</div>
-
-<br/>
 
 ## 🧰 Tech Stack
 
